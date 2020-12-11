@@ -1,6 +1,6 @@
 # CS4177Presentation
 
-## John Password Cracking Workshop
+## John the Ripper Password Cracking Workshop
 
 ### Lauren Eagan & Aaron Mendez
 
