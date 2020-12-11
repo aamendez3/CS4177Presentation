@@ -1,4 +1,4 @@
-# CS4177Presentation
+# CS 4177 Presentation
 
 ## John the Ripper Password Cracking Workshop
 
